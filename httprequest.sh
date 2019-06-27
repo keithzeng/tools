@@ -1,2 +1,2 @@
 source credential.profile
-curl -u $USER:$PASS -X $1 $2
+curl -u $USER:$PASS -X $1 $2 -d ""
